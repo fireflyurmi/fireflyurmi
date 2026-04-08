@@ -10,7 +10,7 @@
 ## 🚀 About Me
 I am a passionate **Web Developer** dedicated to creating modern, responsive, and user-friendly web interfaces. I specialize in **HTML, Tailwind CSS, and JavaScript**, with a strong background in **WordPress** development.
 
-- 🔭 Currently working on **"BPL Dream 11"** (A Player Auction & Hiring Platform).
+- 🔭 Currently working on **"BPL Dream 11"** (A Player Hiring Platform).
 - 🌱 Exploring **React.js** and **Advanced JavaScript** to sharpen my frontend skills.
 - ⚡ Goal: To write clean, efficient code and provide an exceptional user experience.
 
