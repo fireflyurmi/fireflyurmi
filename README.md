@@ -2,7 +2,7 @@
 ### Web Designer & Developer | Frontend Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Web+Designer+%26+Developer;Frontend+Specialist;WordPress+Expert;Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Creative%20Frontend%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Web%20Designer%20%26%20Developer&descAlignY=60&descSize=20" width="100%" alt="Banner" />
 </p>
 
 <p align="center">
