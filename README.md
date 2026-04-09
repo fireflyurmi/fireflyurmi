@@ -2,7 +2,7 @@
 ### Web Designer & Developer | Frontend Specialist
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Creative%20Frontend%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Creative%20Frontend%20Developer&fontSize=50&fontAlignY=35&desc=Less%20Opacity%20%26%20Darker%20Look&descSize=20&descAlignY=55&descColor=white&customColorList=1,1,2,2&strokeColor=D1D1D1&customStrokeList=2&CustomFont=Lato" width="100%" alt="Darker Banner" />
   
   <br/>
   
