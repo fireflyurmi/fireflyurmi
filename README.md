@@ -39,8 +39,12 @@ I am a passionate **Web Developer** dedicated to creating modern, responsive, an
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fireflyurmi&show_icons=true&theme=radical&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireflyurmi&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fireflyurmi&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireflyurmi&layout=compact&theme=radical&border_radius=10" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fireflyurmi&theme=radical&hide_border=false" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
