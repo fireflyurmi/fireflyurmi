@@ -45,10 +45,6 @@ I am a passionate **Web Developer** dedicated to creating modern, responsive, an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireflyurmi&layout=compact&theme=radical&hide_border=false" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fireflyurmi&theme=radical&hide_border=false" width="100%" />
-</p>
-
 ---
 
 ### 📫 Connect with me:
