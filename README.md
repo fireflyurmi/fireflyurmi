@@ -39,8 +39,9 @@ I am a passionate **Web Developer** dedicated to creating modern, responsive, an
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="[[https://github-readme-stats-one-eight.vercel.app/api?username=fireflyurmi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats](https://github-readme-stats.vercel.app/api?username=fireflyurmi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=fireflyurmi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)" />
-  <img src="[https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=fireflyurmi&layout=compact&theme=radical&hide_border=false" width="48%" alt="Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fireflyurmi&layout=compact&theme=radical&hide_border=false)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fireflyurmi&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fireflyurmi&layout=compact&theme=radical&hide_border=false" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
