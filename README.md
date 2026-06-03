@@ -56,7 +56,7 @@ I am a passionate **Web Developer** dedicated to creating modern, responsive, an
 <p align="left">
   <a href="https://linkedin.com/in/urmi-halder-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:halderurmi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://fireflyurmi.github.io/Paulfolio-project/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.urmihalder.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"Keep coding and keep building! 💻✨"</i></p>
