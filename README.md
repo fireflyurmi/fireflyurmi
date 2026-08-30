@@ -1,12 +1,12 @@
 # Hi there, I'm Urmi Halder! 👋
-### Web Designer & Developer | Frontend Specialist
+### Web Designer & Developer | MERN Specialist
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Creative%20MERN-Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner" />
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Web+Designer+%26+Developer;Frontend+Specialist;WordPress+Expert;Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Web+Designer+%26+Developer;MERN+Specialist;WordPress+Expert;Clean+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
