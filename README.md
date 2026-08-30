@@ -1,5 +1,5 @@
 # Hi there, I'm Urmi Halder! 👋
-### Web Designer & Developer | MERN Specialist
+### Web Designer & Developer | MERN Specialist | WordPress Expert
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Creative%20MERN-Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner" />
